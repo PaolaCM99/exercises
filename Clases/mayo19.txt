@@ -1,0 +1,3 @@
+Primer archivo plano wuuucreado en c++
+procesado de forma secuencial
+fin
